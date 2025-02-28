@@ -1,0 +1,6 @@
+﻿services:
+  backend_timemanagement:
+    image: backend_timemanagement
+    build:
+      context: .
+      dockerfile: BackEnd_TimeManagement/Dockerfile

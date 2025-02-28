@@ -1,0 +1,6 @@
+@BackEnd_TimeManagement_HostAddress = http://localhost:5063
+
+GET {{BackEnd_TimeManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
